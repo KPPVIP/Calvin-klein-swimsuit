@@ -1,0 +1,3 @@
+1. Open the program OpenIV.
+2. Drag and drop the files within this folder to:
+\mods\update\x64\dlcpacks\mpapartment\dlc.rpf\x64\models\cdimages\mpapt01.rpf\mp_m_freemode_01_male_apt01
